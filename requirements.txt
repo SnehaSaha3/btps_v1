@@ -1,0 +1,16 @@
+# BTPS_V1 - YOLO26 training
+ultralytics>=8.4.0
+
+# PyTorch
+torch>=2.6.0
+torchvision>=0.21.0
+
+# Dataset / image utilities
+opencv-python>=4.10.0
+Pillow>=10.0.0
+PyYAML>=6.0
+numpy>=1.26.0
+
+# EDA / visualization
+pandas>=2.2.0
+matplotlib>=3.9.0
